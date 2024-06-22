@@ -22,7 +22,7 @@ To use this script, follow these steps:
 2. Navigate to the directory where the script is located.
 3. Run the script by typing `ProgramRunner.bat`
 
-    *Alternatively, you can run the program directly by right clicking it and running with `CMD.exe`.
+    *Alternatively, you can run the program directly by right clicking it and running with `CMD.exe`.*
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
